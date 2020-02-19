@@ -1,1 +1,1 @@
-# get_pet_images
+# GetPet photo classifier
